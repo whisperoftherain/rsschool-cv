@@ -17,7 +17,7 @@ Project: Scratch. Little Bichon's Life game. https://scratch.mit.edu/projects/32
 
 Education:
 Bachelor's degree
-Department of Journalism. Vinnytsia State Pedagogical University (2012-2016)
+Department of Journalism. Vinnytsia State Pedagogical University named after Mykhailo Kotsiubynsky (2012-2016).
 
 Web courses: CS50, The Web Developer Bootcamp by Colt Steele, Web UI (Prometheus), Master the Basics of HTML5 & CSS3 (Udemy).  
 
