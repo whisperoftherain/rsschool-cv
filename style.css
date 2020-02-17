@@ -1,0 +1,24 @@
+body {
+		font-family: 'Lato', sans-serif;
+	}
+
+.block {
+		 max-width: 900px;
+		 margin-left: auto;
+		 margin-right: auto;
+	}
+	h1 {
+		text-align: center;
+		color: rgb(38, 114, 108);
+		}
+	h2 {
+		color: rgb(93, 141, 147);
+	}
+	img {
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		  width: 25%;
+		 
+	}
+
